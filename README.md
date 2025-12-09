@@ -10,10 +10,16 @@ This subset is ideal for rapid prototyping, testing vision–language pipelines,
 ---
 
 ## 📁 File Structure
+
+```text
 .
-├── roco_v2_captions_1k.jsonl    # 1,000 ROCO-derived radiology captions (JSONL)
-├── LICENSE                      # Apache 2.0 license for this repository
-├── NOTICE                       # ROCO / PMC Open Access licensing notice
-└── README.md                    # Documentation and dataset details
+├── data/
+│   └── roco_v2_captions_1k.jsonl    # 1,000 ROCO-derived radiology captions (JSONL)
+├── LICENSE                          # Apache 2.0 license for this repository
+├── NOTICE                           # ROCO / PMC Open Access licensing notice
+└── README.md                        # Documentation and dataset details
+```
+
+
 
 
