@@ -8,13 +8,13 @@ This subset is ideal for rapid prototyping, testing vision–language pipelines,
 ⚠️ **Nothing in this repository overrides ROCO or PMC licensing.**
 
 ---
-
 ## 📁 File Structure
 
 ```text
 .
 ├── data/
 │   └── roco_v2_captions_1k.jsonl    # 1,000 ROCO-derived radiology captions (JSONL)
+├── .gitignore                       # Standard Git ignore rules for the repo
 ├── LICENSE                          # Apache 2.0 license for this repository
 ├── NOTICE                           # ROCO / PMC Open Access licensing notice
 └── README.md                        # Documentation and dataset details
