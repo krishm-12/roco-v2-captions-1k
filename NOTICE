@@ -1,0 +1,18 @@
+NOTICES
+=======
+
+This project contains derived data from the ROCO / ROCO v2 dataset,
+based on images and captions extracted from PubMed Central (PMC)
+Open Access articles.
+
+ROCO / ROCO v2 content is governed by:
+ - the ROCO dataset license, and
+ - the licenses of the underlying PMC OA source articles.
+
+No part of this repository modifies or supersedes those terms.
+Users are responsible for reviewing and complying with all ROCO
+and PMC OA licensing requirements.
+
+Additional contributions by VoxelZero — including mask generation,
+dataset structure, metadata, and documentation — are licensed under
+the Apache License, Version 2.0.
